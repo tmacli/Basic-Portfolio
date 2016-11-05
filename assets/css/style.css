@@ -54,6 +54,7 @@ article {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 	padding: 10px;
+	padding-left: 0px;
 	line-height: 200%;
 }
 
@@ -70,6 +71,8 @@ footer {
 
 .your_name {
 	background-color: #4aaaa5;
+	font-size: 24px;
+	font-weight: bold;
 	color: #ffffff;
 	padding: 20px;
 	margin: auto;
@@ -80,8 +83,14 @@ footer {
 	padding: 10px;
 }
 
+.pp {
+	padding-left: 0px;
+}
+
 .connect {
 	color: #4aaaa5;
+	font-size: 20px;
+	font-weight: bold;
 	border-bottom: 1px solid #cccccc;
 	padding: 10px;
 	margin: 15px;
@@ -89,7 +98,10 @@ footer {
 
 .about_me {
 	color: #4aaaa5;
+	font-size: 24px;
+	font-weight: bold;
 	padding: 15px;
+	padding-left: 0px;
 	border-bottom: 3px solid;
 	border-bottom-color: #cccccc;
 }
@@ -107,6 +119,8 @@ input {
 
 .contact_heading {
 	color: #4aaaa5;
+	font-size: 24px;
+	font-weight: bold;
 	padding: 15px;
 	padding-left: 0px;
 	border-bottom: 3px solid #cccccc;
@@ -138,6 +152,8 @@ input {
 
 .portfolio_heading {
 	color: #4aaaa5;
+	font-size: 24px;
+	font-weight: bold;
 	padding: 15px;
 	padding-left: 0px;
 	border-bottom: 3px solid #cccccc;
