@@ -1,9 +1,9 @@
 body {
-	background-image: url("../images/pink_rice_background.png");
-	font-family: 'Georgia', Times, Times New Roman, serif;
-	line-height: 150%;
-	width: 100%;
-	margin: 0;
+  background-image: url("../images/pink_rice_background.png");
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  line-height: 150%;
+  width: 100%;
+  margin: 0;
 }
 
 header {
@@ -26,13 +26,12 @@ nav {
 }
 
 aside {
-	background-color: #ffffff;
-	margin: 30px;
-	margin-right: 8.5%;
-	width: 22%;
-	height: 10%;
-    text-align:center;
-	float:right;
+  background-color: #ffffff;
+  margin: 30px;
+  margin-right: 8.5%;
+  width: 20%;
+  text-align: center;
+  float:right;
 }
 
 section{
@@ -47,7 +46,6 @@ section{
 
 img {
 	padding: 20px;
-	float: left;
 }
 
 article {
@@ -57,6 +55,8 @@ article {
 	padding-left: 0px;
 	line-height: 200%;
 }
+
+
 
 footer {
 	background-color: #666666;
@@ -85,15 +85,16 @@ footer {
 
 .pp {
 	padding-left: 0px;
+	float: left;
 }
 
 .connect {
-	color: #4aaaa5;
-	font-size: 20px;
-	font-weight: bold;
-	border-bottom: 1px solid #cccccc;
-	padding: 10px;
-	margin: 15px;
+  color: #4aaaa5;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid #cccccc;
+  padding: 10px;
+  margin: 15px;
 }
 
 .about_me {
